@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "launcher": {
-    "version": "0.2.1",
-    "url": "https://github.com/piloottt1/laa-packs/releases/download/launcher-v0.2.1/LAA-Launcher-v0.2.1.zip",
-    "sha256": "61ec5bd6d9bbc517d0c5266ae757987b7348dbe27f26566293d4cc8e05d31e89",
-    "size": 220640804
+    "version": "0.3.0",
+    "url": "https://github.com/piloottt1/laa-packs/releases/download/launcher-v0.3.0/LAA-Launcher-v0.3.0.zip",
+    "sha256": "284fdcabe3f1c67a83de0464e466bac9af8e01837ed4cf0380f569196b58176d",
+    "size": 260359398
   },
   "packs": [
     {
@@ -22,7 +22,8 @@
         "Пора обратно\nна сервер.",
         "Новые горизонты\nуже ждут.",
         "Построй свою\nследующую машину."
-      ]
+      ],
+      "java": 25
     }
   ]
 }
