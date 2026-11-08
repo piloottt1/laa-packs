@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "launcher": {
-    "version": "0.2.0",
-    "url": "https://github.com/piloottt1/laa-packs/releases/download/launcher-v0.2.0/LAA-Launcher-v0.2.0.zip",
-    "sha256": "5dd677cb9eed4fb9bb3ed732bcaac3a4314c80fa6f3de76b5b1bb6dba3168149",
-    "size": 220640742
+    "version": "0.2.1",
+    "url": "https://github.com/piloottt1/laa-packs/releases/download/launcher-v0.2.1/LAA-Launcher-v0.2.1.zip",
+    "sha256": "61ec5bd6d9bbc517d0c5266ae757987b7348dbe27f26566293d4cc8e05d31e89",
+    "size": 220640804
   },
   "packs": [
     {
