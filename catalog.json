@@ -14,16 +14,55 @@
       "subtitle": "GREGTECH NEW HORIZONS",
       "description": "Наша сборка GTNH 2.9.0 для общего сервера.",
       "version": "2.9.0-laa.1",
-      "server": "piloottt.msk.millida.host:25565",
+      "server": "piloottt.millida.host:25565",
       "url": "https://github.com/piloottt1/laa-packs/releases/download/pack-gtnh-2.9.0-laa.1/GTNH-2.9.0-laa.1.zip",
       "sha256": "3e53ad4d8d5b4b764ea7dab8e757343eedefe434eb6cc6ec9d664b07055f9ee2",
       "size": 831806415,
       "splashes": [
         "Пора обратно\nна сервер.",
         "Новые горизонты\nуже ждут.",
-        "Построй свою\nследующую машину."
+        "Построй свою\nследующую машину.",
+        "Ещё один крафт\nи спать.",
+        "Турбины ждут\nсвоего инженера.",
+        "Время улучшить\nбазу.",
+        "Заводы сами\nсебя не построят.",
+        "Найди новую\nжилу.",
+        "Проверь свои\nмультиблоки.",
+        "Ещё немного\nдо следующего тира.",
+        "На базе снова\nесть работа.",
+        "Поставь ещё\nодин кабель.",
+        "Доменка уже\nразогрелась.",
+        "МЭ сеть\nждёт рецептов.",
+        "Сегодня точно\nбез взрывов.",
+        "Добывай, крафти,\nисследуй.",
+        "Время запускать\nпроизводство.",
+        "Квесты ждут\nтвоего ответа.",
+        "Настрой трубы\nи в путь.",
+        "Встретимся\nу базы."
       ],
-      "java": 25
+      "java": 25,
+      "splashesEn": [
+        "Time to return\nto the server.",
+        "New horizons\nare waiting.",
+        "Build your\nnext machine.",
+        "One more craft\nbefore bed.",
+        "The turbines need\ntheir engineer.",
+        "Time to upgrade\nyour base.",
+        "Factories will not\nbuild themselves.",
+        "Find a new\nore vein.",
+        "Check your\nmultiblocks.",
+        "Almost at\nthe next tier.",
+        "There is more\nwork at the base.",
+        "Place one more\ncable.",
+        "The blast furnace\nis heating up.",
+        "Your ME network\nneeds recipes.",
+        "No explosions\ntoday. Probably.",
+        "Mine, craft,\nand explore.",
+        "Time to start\nproduction.",
+        "Your quests\nare waiting.",
+        "Connect the pipes\nand get going.",
+        "See you\nat the base."
+      ]
     }
   ]
 }
