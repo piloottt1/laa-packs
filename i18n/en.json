@@ -23,5 +23,12 @@
   "catalogError": "Catalog error: {error}",
   "updateError": "Could not update {pack}: {error}",
   "elyOpened": "Sign in through the PineconeMC window",
-  "packNotLoaded": "Pack is not loaded yet"
+  "packNotLoaded": "Pack is not loaded yet",
+  "downloading": "Downloading {pack}…",
+  "downloaded": "Downloaded {mb} MB",
+  "extracting": "Extracting pack…",
+  "extracted": "Extracted {done} / {total}",
+  "copyingSettings": "Copying player settings…",
+  "packReady": "{pack} is ready",
+  "launcherUpdating": "Updating launcher…"
 }

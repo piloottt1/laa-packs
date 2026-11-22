@@ -23,5 +23,12 @@
   "catalogError": "Ошибка каталога: {error}",
   "updateError": "Не удалось обновить {pack}: {error}",
   "elyOpened": "Войди через окно PineconeMC",
-  "packNotLoaded": "Сборка ещё не загружена"
+  "packNotLoaded": "Сборка ещё не загружена",
+  "downloading": "Скачиваю {pack}…",
+  "downloaded": "Скачано {mb} МБ",
+  "extracting": "Распаковываю сборку…",
+  "extracted": "Распаковано {done} / {total}",
+  "copyingSettings": "Переношу настройки игрока…",
+  "packReady": "{pack} готова",
+  "launcherUpdating": "Обновляю лаунчер…"
 }
