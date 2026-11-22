@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "launcher": {
-    "version": "0.3.8",
-    "url": "https://github.com/piloottt1/laa-packs/releases/download/launcher-v0.3.8/LAA-Launcher-v0.3.8.zip",
-    "sha256": "27da38d6dd8245b2cac752cfd96adbb54cbb5f80c08e06f97f163118af9a5fb4",
-    "size": 288490845
+    "version": "0.3.9",
+    "url": "https://github.com/piloottt1/laa-packs/releases/download/launcher-v0.3.9/LAA-Launcher-v0.3.9.zip",
+    "sha256": "70f865916d233729e1b286e0e32b5b08f0b765324afb819913e2076c507058b6",
+    "size": 288502091
   },
   "packs": [
     {
@@ -12,12 +12,12 @@
       "instanceId": "GTNH-2.9.0",
       "name": "GT New Horizons",
       "subtitle": "GREGTECH NEW HORIZONS",
-      "description": "Наша сборка GTNH 2.9.0 для общего сервера.",
-      "version": "2.9.0-laa.1",
+      "description": "Наша сборка GTNH 2.9.1 для общего сервера.",
+      "version": "2.9.1-laa.1",
       "server": "piloottt.millida.host:25565",
-      "url": "https://github.com/piloottt1/laa-packs/releases/download/pack-gtnh-2.9.0-laa.1/GTNH-2.9.0-laa.1.zip",
-      "sha256": "3e53ad4d8d5b4b764ea7dab8e757343eedefe434eb6cc6ec9d664b07055f9ee2",
-      "size": 831806415,
+      "url": "https://github.com/piloottt1/laa-packs/releases/download/pack-gtnh-2.9.1-laa.1/GTNH-2.9.1-laa.1.zip",
+      "sha256": "c8611151e9d1c6297762d9eca8fdba24a1601549b6a077aa46eb157a860ea166",
+      "size": 829558090,
       "splashes": [
         "Пора обратно\nна сервер.",
         "Новые горизонты\nуже ждут.",
