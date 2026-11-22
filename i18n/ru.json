@@ -1,7 +1,11 @@
 {
   "packs": "СБОРКИ",
   "settings": "Настройки",
-  "play": "ИГРАТЬ",
+  "parameters": "ПАРАМЕТРЫ",
+  "play": "Играть",
+  "installAndPlay": "Установить и играть",
+  "setupEly": "Подключить Ely.by",
+  "packVersion": "СБОРКА",
   "wait": "Подождите…",
   "notInstalled": "Не установлена",
   "nickname": "НИК ИГРОКА",

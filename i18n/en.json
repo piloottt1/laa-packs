@@ -1,7 +1,11 @@
 {
   "packs": "PACKS",
   "settings": "Settings",
-  "play": "PLAY",
+  "parameters": "PREFERENCES",
+  "play": "Play",
+  "installAndPlay": "Install and play",
+  "setupEly": "Connect Ely.by",
+  "packVersion": "PACK",
   "wait": "Please wait…",
   "notInstalled": "Not installed",
   "nickname": "PLAYER NAME",
