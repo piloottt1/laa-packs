@@ -30,6 +30,7 @@
   "packNotLoaded": "Pack is not loaded yet",
   "downloading": "Downloading {pack}…",
   "downloaded": "Downloaded {mb} MB",
+  "downloadedOf": "Downloaded {mb} of {totalMb} MB",
   "extracting": "Extracting pack…",
   "extracted": "Extracted {done} / {total}",
   "copyingSettings": "Copying player settings…",

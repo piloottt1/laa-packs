@@ -30,6 +30,7 @@
   "packNotLoaded": "Сборка ещё не загружена",
   "downloading": "Скачиваю {pack}…",
   "downloaded": "Скачано {mb} МБ",
+  "downloadedOf": "Скачано {mb} из {totalMb} МБ",
   "extracting": "Распаковываю сборку…",
   "extracted": "Распаковано {done} / {total}",
   "copyingSettings": "Переношу настройки игрока…",
