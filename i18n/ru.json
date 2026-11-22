@@ -12,7 +12,7 @@
   "nicknamePlaceholder": "Введи свой ник",
   "nicknameHint": "Используй прежний ник — к нему привязан прогресс.",
   "memory": "ВЫДЕЛЕНО ОЗУ",
-  "account": "АККАУНТ",
+  "account": "Аккаунт",
   "offline": "По нику",
   "elyLogin": "Войти через Ely.by",
   "pineconeSettings": "Настройки PineconeMC",
@@ -23,7 +23,7 @@
   "preparing": "Подготавливаю {pack}…",
   "launching": "Запускаю {pack}…",
   "started": "Игра запускается",
-  "nicknameError": "Ник: 3–16 латинских букв, цифр или подчёркиваний",
+  "nicknameError": "Ник должен содержать 3–16 латинских букв, цифр или подчёркиваний.",
   "catalogError": "Ошибка каталога: {error}",
   "updateError": "Не удалось обновить {pack}: {error}",
   "elyOpened": "Войди через окно PineconeMC",
@@ -76,5 +76,13 @@
   "invalidUpdatePackage": "В архиве обновления нет файлов лаунчера",
   "unknownError": "Ошибка: {detail}",
   "launcherUpdateCheckError": "Не удалось проверить обновление лаунчера: {error}",
-  "elyConnected": "Ely.by: {name} подключён"
+  "elyConnected": "Ely.by: {name} подключён",
+  "switchEly": "Сменить аккаунт Ely.by",
+  "elyConnectedShort": "Аккаунт подключён",
+  "close": "Закрыть",
+  "dataPreserved": "Папка data с играми и настройками сохранится.",
+  "checkingUpdates": "Проверяю обновления",
+  "updatingPack": "Обновляю {pack}",
+  "actionFailed": "Не удалось выполнить действие",
+  "preparingLauncherUpdate": "Подготавливаю обновление…"
 }

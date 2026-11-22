@@ -12,7 +12,7 @@
   "nicknamePlaceholder": "Enter your nickname",
   "nicknameHint": "Use the same name linked to your progress.",
   "memory": "ALLOCATED MEMORY",
-  "account": "ACCOUNT",
+  "account": "Account",
   "offline": "By nickname",
   "elyLogin": "Sign in with Ely.by",
   "pineconeSettings": "PineconeMC settings",
@@ -23,7 +23,7 @@
   "preparing": "Preparing {pack}…",
   "launching": "Launching {pack}…",
   "started": "Game is launching",
-  "nicknameError": "Name: 3–16 Latin letters, digits, or underscores",
+  "nicknameError": "Name must contain 3–16 Latin letters, digits, or underscores.",
   "catalogError": "Catalog error: {error}",
   "updateError": "Could not update {pack}: {error}",
   "elyOpened": "Sign in through the PineconeMC window",
@@ -76,5 +76,13 @@
   "invalidUpdatePackage": "Update archive has no launcher files",
   "unknownError": "Error: {detail}",
   "launcherUpdateCheckError": "Could not check launcher update: {error}",
-  "elyConnected": "Ely.by: {name} connected"
+  "elyConnected": "Ely.by: {name} connected",
+  "switchEly": "Switch Ely.by account",
+  "elyConnectedShort": "Account connected",
+  "close": "Close",
+  "dataPreserved": "Your games and settings in the data folder will be preserved.",
+  "checkingUpdates": "Checking for updates",
+  "updatingPack": "Updating {pack}",
+  "actionFailed": "Could not complete the action",
+  "preparingLauncherUpdate": "Preparing the update…"
 }
