@@ -1,0 +1,175 @@
+{
+  "schema": 1,
+  "packId": "gtnh",
+  "languages": [
+    "ru",
+    "en"
+  ],
+  "defaultLanguage": "ru",
+  "nameKey": "pack.name",
+  "java": 25,
+  "server": "piloottt.millida.host:25565",
+  "accentColor": "#00bf13",
+  "update": {
+    "userWins": true,
+    "keep": [
+      ".minecraft/saves",
+      ".minecraft/journeymap",
+      ".minecraft/screenshots",
+      ".minecraft/visualprospecting",
+      ".minecraft/TCNodeTracker",
+      ".minecraft/serverutilities",
+      ".minecraft/shaderpacks",
+      ".minecraft/resourcepacks",
+      ".minecraft/servers.dat",
+      ".minecraft/options.txt"
+    ],
+    "packWins": [
+      "mmc-pack.json",
+      "instance.cfg"
+    ],
+    "conflicts": "report"
+  },
+  "appearance": {
+    "fonts": [],
+    "scenes": [
+      {
+        "id": "home",
+        "layers": [
+          {
+            "id": "subtitle",
+            "type": "text",
+            "textKey": "home.subtitle",
+            "rect": [
+              0.06,
+              0.12,
+              0.52,
+              0.1
+            ],
+            "z": 10,
+            "font": "Manrope",
+            "size": 10,
+            "color": "#d4ffac"
+          },
+          {
+            "id": "version",
+            "type": "text",
+            "textKey": "home.version",
+            "rect": [
+              0.59,
+              0.12,
+              0.36,
+              0.1
+            ],
+            "z": 11,
+            "font": "Manrope",
+            "size": 10,
+            "color": "#edffdf"
+          },
+          {
+            "id": "splash",
+            "type": "splash",
+            "group": "home-splashes",
+            "rect": [
+              0.06,
+              0.32,
+              0.87,
+              0.5
+            ],
+            "z": 20,
+            "font": "Unbounded",
+            "size": 47,
+            "color": "#ffffff"
+          }
+        ]
+      }
+    ],
+    "splashGroups": [
+      {
+        "id": "home-splashes",
+        "entries": [
+          {
+            "key": "splash1",
+            "weight": 1
+          },
+          {
+            "key": "splash2",
+            "weight": 1
+          },
+          {
+            "key": "splash3",
+            "weight": 1
+          },
+          {
+            "key": "splash4",
+            "weight": 1
+          },
+          {
+            "key": "splash5",
+            "weight": 1
+          },
+          {
+            "key": "splash6",
+            "weight": 1
+          },
+          {
+            "key": "splash7",
+            "weight": 1
+          },
+          {
+            "key": "splash8",
+            "weight": 1
+          },
+          {
+            "key": "splash9",
+            "weight": 1
+          },
+          {
+            "key": "splash10",
+            "weight": 1
+          },
+          {
+            "key": "splash11",
+            "weight": 1
+          },
+          {
+            "key": "splash12",
+            "weight": 1
+          },
+          {
+            "key": "splash13",
+            "weight": 1
+          },
+          {
+            "key": "splash14",
+            "weight": 1
+          },
+          {
+            "key": "splash15",
+            "weight": 1
+          },
+          {
+            "key": "splash16",
+            "weight": 1
+          },
+          {
+            "key": "splash17",
+            "weight": 1
+          },
+          {
+            "key": "splash18",
+            "weight": 1
+          },
+          {
+            "key": "splash19",
+            "weight": 1
+          },
+          {
+            "key": "splash20",
+            "weight": 1
+          }
+        ]
+      }
+    ]
+  }
+}

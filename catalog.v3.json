@@ -1,0 +1,9 @@
+{
+  "schema": 3,
+  "packs": [
+    {
+      "id": "gtnh",
+      "manifest": "packs/gtnh.v3.json"
+    }
+  ]
+}
