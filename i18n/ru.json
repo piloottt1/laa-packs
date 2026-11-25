@@ -68,6 +68,7 @@
   "missingPinecone": "В комплекте нет PineconeMC для этой системы",
   "missingJava": "В комплекте нет Java {major} для этой системы",
   "packNotInstalled": "Сборка ещё не установлена",
+  "missingPackBaseline": "Не найдены данные о файлах прежней версии сборки. Верни старый ZIP в папку загрузок лаунчера перед обновлением.",
   "invalidAccounts": "Формат accounts.json не распознан",
   "elyLoginRequired": "Сначала войди через Ely.by",
   "elyAccountMissing": "Аккаунт Ely.by не найден",

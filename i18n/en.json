@@ -68,6 +68,7 @@
   "missingPinecone": "PineconeMC for this system is missing",
   "missingJava": "Java {major} for this system is missing",
   "packNotInstalled": "Pack is not installed yet",
+  "missingPackBaseline": "The previous pack file list is missing. Restore the old ZIP in the launcher's downloads folder before updating.",
   "invalidAccounts": "accounts.json format is not recognized",
   "elyLoginRequired": "Sign in with Ely.by first",
   "elyAccountMissing": "Ely.by account not found",

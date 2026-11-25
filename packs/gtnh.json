@@ -55,8 +55,7 @@
   "sha256": "c8611151e9d1c6297762d9eca8fdba24a1601549b6a077aa46eb157a860ea166",
   "size": 829558090,
   "preserve": {
-    "paths": ["saves", "journeymap", "screenshots", "visualprospecting", "TCNodeTracker", "serverutilities", "shaderpacks", "resourcepacks", "servers.dat"],
-    "optionsTxt": true,
+    "paths": ["saves", "journeymap", "screenshots", "visualprospecting", "TCNodeTracker", "serverutilities", "shaderpacks", "resourcepacks", "servers.dat", "options.txt"],
     "modifiedConfigs": true,
     "addedMods": true
   }
