@@ -20,6 +20,8 @@
   "loginOpenBrowser": "Открыть страницу входа ↗",
   "loginCopyCode": "Скопировать код",
   "loginCodeCopied": "Код скопирован",
+  "stopGame": "Принудительно остановить",
+  "stoppingGame": "Останавливаю игру…",
   "loginCancel": "Отмена",
   "loginStarting": "Получаю код входа…",
   "loginFailed": "Не удалось войти: {detail}",

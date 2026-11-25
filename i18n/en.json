@@ -20,6 +20,8 @@
   "loginOpenBrowser": "Open sign-in page ↗",
   "loginCopyCode": "Copy code",
   "loginCodeCopied": "Code copied",
+  "stopGame": "Force stop game",
+  "stoppingGame": "Stopping game…",
   "loginCancel": "Cancel",
   "loginStarting": "Getting sign-in code…",
   "loginFailed": "Sign-in failed: {detail}",
