@@ -9,9 +9,9 @@
     "sha256": "c8611151e9d1c6297762d9eca8fdba24a1601549b6a077aa46eb157a860ea166"
   },
   "profile": {
-    "url": "https://github.com/piloottt1/laa-packs/releases/download/pack-gtnh-2.9.1-laa.1/gtnh.laapack",
-    "size": 2177,
-    "sha256": "ca560eee476391011af29034cdc10b8f7d14387f5a1cb8ff1ed1990347283880"
+    "url": "https://github.com/piloottt1/laa-packs/releases/download/profile-gtnh-v3.1/gtnh.laapack",
+    "size": 2079,
+    "sha256": "58ce70829a383d4ef5ac1f026b730aaca4e194af609c023c09f9290e6285752e"
   },
   "snapshots": {
     "2.9.0-laa.1": {

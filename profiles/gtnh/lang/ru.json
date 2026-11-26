@@ -1,7 +1,7 @@
 {
   "pack.name": "GT New Horizons",
   "home.subtitle": "GREGTECH NEW HORIZONS",
-  "home.version": "СБОРКА 2.9.1-laa.1",
+  "home.version": "СБОРКА {version}",
   "splash1": "Пора обратно\nна сервер.",
   "splash2": "Новые горизонты\nуже ждут.",
   "splash3": "Построй свою\nследующую машину.",
@@ -21,5 +21,6 @@
   "splash17": "Время запускать\nпроизводство.",
   "splash18": "Квесты ждут\nтвоего ответа.",
   "splash19": "Настрой трубы\nи в путь.",
-  "splash20": "Встретимся\nу базы."
+  "splash20": "Встретимся\nу базы.",
+  "home.headline": "{random:splash}"
 }

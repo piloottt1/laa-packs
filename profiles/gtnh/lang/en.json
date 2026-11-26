@@ -1,7 +1,7 @@
 {
   "pack.name": "GT New Horizons",
   "home.subtitle": "GREGTECH NEW HORIZONS",
-  "home.version": "PACK 2.9.1-laa.1",
+  "home.version": "PACK {version}",
   "splash1": "Time to return\nto the server.",
   "splash2": "New horizons\nare waiting.",
   "splash3": "Build your\nnext machine.",
@@ -21,5 +21,6 @@
   "splash17": "Time to start\nproduction.",
   "splash18": "Your quests\nare waiting.",
   "splash19": "Connect the pipes\nand get going.",
-  "splash20": "See you\nat the base."
+  "splash20": "See you\nat the base.",
+  "home.headline": "{random:splash}"
 }

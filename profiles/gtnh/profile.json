@@ -67,9 +67,8 @@
             "color": "#edffdf"
           },
           {
-            "id": "splash",
-            "type": "splash",
-            "group": "home-splashes",
+            "id": "headline",
+            "type": "text",
             "rect": [
               0.06,
               0.32,
@@ -79,94 +78,8 @@
             "z": 20,
             "font": "Unbounded",
             "size": 47,
-            "color": "#ffffff"
-          }
-        ]
-      }
-    ],
-    "splashGroups": [
-      {
-        "id": "home-splashes",
-        "entries": [
-          {
-            "key": "splash1",
-            "weight": 1
-          },
-          {
-            "key": "splash2",
-            "weight": 1
-          },
-          {
-            "key": "splash3",
-            "weight": 1
-          },
-          {
-            "key": "splash4",
-            "weight": 1
-          },
-          {
-            "key": "splash5",
-            "weight": 1
-          },
-          {
-            "key": "splash6",
-            "weight": 1
-          },
-          {
-            "key": "splash7",
-            "weight": 1
-          },
-          {
-            "key": "splash8",
-            "weight": 1
-          },
-          {
-            "key": "splash9",
-            "weight": 1
-          },
-          {
-            "key": "splash10",
-            "weight": 1
-          },
-          {
-            "key": "splash11",
-            "weight": 1
-          },
-          {
-            "key": "splash12",
-            "weight": 1
-          },
-          {
-            "key": "splash13",
-            "weight": 1
-          },
-          {
-            "key": "splash14",
-            "weight": 1
-          },
-          {
-            "key": "splash15",
-            "weight": 1
-          },
-          {
-            "key": "splash16",
-            "weight": 1
-          },
-          {
-            "key": "splash17",
-            "weight": 1
-          },
-          {
-            "key": "splash18",
-            "weight": 1
-          },
-          {
-            "key": "splash19",
-            "weight": 1
-          },
-          {
-            "key": "splash20",
-            "weight": 1
+            "color": "#ffffff",
+            "textKey": "home.headline"
           }
         ]
       }
