@@ -1,5 +1,11 @@
 {
   "schema": 1,
-  "version": "0.1.0",
-  "assets": {}
+  "version": "0.3.0",
+  "assets": {
+    "windows-x64": {
+      "url": "https://github.com/piloottt1/laa-packs/releases/download/launcher-native-v0.3.0/LAA-Launcher-v0.3.0-windows-x64.zip",
+      "size": 28313843,
+      "sha256": "7ecc6b40638d26676521d4efde43a240b2052f4bcf224596f0ddee0c3b383fe3"
+    }
+  }
 }
